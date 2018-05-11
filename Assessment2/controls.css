@@ -1,0 +1,26 @@
+.Range {
+    width: 40px;
+}
+
+#number {
+    background-color: black;
+    color: white;
+}
+
+#random {
+    background-color: lightpink;
+    color: purple;
+}
+
+#plus {
+    background-color: grey;
+    color: white;
+}
+
+.divC{
+    width: 100px;
+    height: 100px;
+    display: inline-block;
+    position:relative;
+    margin: 5px;
+}
